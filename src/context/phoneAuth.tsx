@@ -50,6 +50,7 @@ export const PhoneAuthContextProvider = ({ children }: any) => {
         confirmationResult,
         setConfirmationResult,
         phoneNumber,
+        setPhoneNumber,
         isAuth,
         fbToken,
       }}
